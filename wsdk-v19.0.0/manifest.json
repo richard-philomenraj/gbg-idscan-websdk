@@ -1,0 +1,14 @@
+{
+  "ides-micro.js": {
+    "filename": "ides-micro.5533c29dc09364ea7b8e.js",
+    "integrity": "sha256-/HI57Ps0vm4D4iLhCHL5WaciH4RoDqsAQ+jLD02X7IY= sha384-fKtIDAnqbzC0PNcYUWdQPm8MVl9dDFO8qkJcyqSOyq6fvJLcSQOU2tsivt4eI7cK sha512-zWJy4NEkX2mCjs5fPRB4ntT5fAQeLPnH5613OYq9Gi6k4Bh9KUKjae/c2oiWxAqwYcDx8ucn8EIe1ga7mNQwHg=="
+  },
+  "idscan-jcs.css": {
+    "filename": "styles.css",
+    "integrity": "sha256-BTCR3HnwEspE6wOZ6FhWjJ6wDd3vip8vr+gKufcti2E= sha384-nKMbHzSCJgsDc4N+8H+htelxGdHLmk0IW0VuJDy/PEXnE+izg6HPUG71PthOviJQ sha512-gKEsJaFw3UTZVe/DKkJzhXTT0P+ynCbD17ao9Hqx3ZBQTHGQv2Uk6IVubQve0278MweOLxOSuxwp10SuPMrFnQ=="
+  },
+  "idscan-jcs.js": {
+    "filename": "idscan-jcs.9c6866ab267f3abcdb60.js",
+    "integrity": "sha256-qvvWGTXb/PfzxASDCZaoX2pCa9wdtSO8xRSKtKZtS5I= sha384-o5D0PcxcMkBbRT7q/HQ0CGZAWKtYPin1F5JprihFdYhYTRgSl3kaQue05/Zia7+G sha512-fSllqlIrfhpleUolXFJKHjypQ5O2iDF8hqifzHfUrhK7lGeWzLg/fLHypgBaqZg8nvHnIOfBkX3m9EwkiJfZAQ=="
+  }
+}
